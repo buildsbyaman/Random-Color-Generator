@@ -29,4 +29,4 @@ A simple web app that generates a random color, displays it in a box, and shows 
 - HTML
 - CSS
 - JavaScript (vanilla)
-"# Random-Color-Generator" 
+"# Random-Color-Generator"
