@@ -2,6 +2,8 @@
 
 A simple web app that generates a random color, displays it in a box, and shows the corresponding RGB code.
 
+🔗 **Live Demo**: [Visit Site](https://buildsbyaman-colorgenerator.vercel.app/)
+
 ## 🚀 Features
 
 - One-click random color generation
