@@ -1,4 +1,4 @@
-# 🎨 Random Color Generator
+# Random Color Generator
 
 A simple web app that generates a random color, displays it in a box, and shows the corresponding RGB code.
 
@@ -21,10 +21,6 @@ A simple web app that generates a random color, displays it in a box, and shows 
 1. Download or clone this repository
 2. Open `index.html` in your browser
 3. Click the "Generate Color" button to get a new random color!
-
-## 📱 Responsive
-
-- Fully responsive for desktop, tablet, and mobile screens using media queries.
 
 ## 🛠 Tech Stack
 
